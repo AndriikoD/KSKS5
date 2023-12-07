@@ -1,0 +1,38 @@
+﻿  MyForm.cpp
+C:\LR5\KSKS5ser\KSKS5ser\MyForm.h(750,32): warning C4566: character represented by universal-character-name '\u041D' cannot be represented in the current code page (1252)
+C:\LR5\KSKS5ser\KSKS5ser\MyForm.h(750,32): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+C:\LR5\KSKS5ser\KSKS5ser\MyForm.h(750,32): warning C4566: character represented by universal-character-name '\u0432' cannot be represented in the current code page (1252)
+C:\LR5\KSKS5ser\KSKS5ser\MyForm.h(750,32): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+C:\LR5\KSKS5ser\KSKS5ser\MyForm.h(750,32): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1252)
+C:\LR5\KSKS5ser\KSKS5ser\MyForm.h(750,32): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+C:\LR5\KSKS5ser\KSKS5ser\MyForm.h(750,32): warning C4566: character represented by universal-character-name '\u044F' cannot be represented in the current code page (1252)
+C:\LR5\KSKS5ser\KSKS5ser\MyForm.h(750,32): warning C4566: character represented by universal-character-name '\u043A' cannot be represented in the current code page (1252)
+C:\LR5\KSKS5ser\KSKS5ser\MyForm.h(750,32): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+C:\LR5\KSKS5ser\KSKS5ser\MyForm.h(750,32): warning C4566: character represented by universal-character-name '\u043C' cannot be represented in the current code page (1252)
+C:\LR5\KSKS5ser\KSKS5ser\MyForm.h(750,32): warning C4566: character represented by universal-character-name '\u0434' cannot be represented in the current code page (1252)
+C:\LR5\KSKS5ser\KSKS5ser\MyForm.h(757,50): warning C4566: character represented by universal-character-name '\u041D' cannot be represented in the current code page (1252)
+C:\LR5\KSKS5ser\KSKS5ser\MyForm.h(757,50): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+C:\LR5\KSKS5ser\KSKS5ser\MyForm.h(757,50): warning C4566: character represented by universal-character-name '\u0432' cannot be represented in the current code page (1252)
+C:\LR5\KSKS5ser\KSKS5ser\MyForm.h(757,50): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+C:\LR5\KSKS5ser\KSKS5ser\MyForm.h(757,50): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1252)
+C:\LR5\KSKS5ser\KSKS5ser\MyForm.h(757,50): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+C:\LR5\KSKS5ser\KSKS5ser\MyForm.h(757,50): warning C4566: character represented by universal-character-name '\u044F' cannot be represented in the current code page (1252)
+C:\LR5\KSKS5ser\KSKS5ser\MyForm.h(757,50): warning C4566: character represented by universal-character-name '\u043A' cannot be represented in the current code page (1252)
+C:\LR5\KSKS5ser\KSKS5ser\MyForm.h(757,50): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+C:\LR5\KSKS5ser\KSKS5ser\MyForm.h(757,50): warning C4566: character represented by universal-character-name '\u043C' cannot be represented in the current code page (1252)
+C:\LR5\KSKS5ser\KSKS5ser\MyForm.h(757,50): warning C4566: character represented by universal-character-name '\u0434' cannot be represented in the current code page (1252)
+C:\LR5\KSKS5ser\KSKS5ser\MyForm.h(248,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\LR5\KSKS5ser\KSKS5ser\MyForm.h(251,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\LR5\KSKS5ser\KSKS5ser\MyForm.h(254,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\LR5\KSKS5ser\KSKS5ser\MyForm.h(261,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\LR5\KSKS5ser\KSKS5ser\MyForm.h(261,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\LR5\KSKS5ser\KSKS5ser\MyForm.h(276,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\LR5\KSKS5ser\KSKS5ser\MyForm.h(279,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\LR5\KSKS5ser\KSKS5ser\MyForm.h(282,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\LR5\KSKS5ser\KSKS5ser\MyForm.h(290,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\LR5\KSKS5ser\KSKS5ser\MyForm.h(290,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\LR5\KSKS5ser\KSKS5ser\MyForm.h(909,57): warning C4101: 'e': unreferenced local variable
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  KSKS5ser.vcxproj -> C:\LR5\KSKS5ser\x64\Debug\KSKS5ser.exe

@@ -1,0 +1,2 @@
+C:\LR5\KSKS5cli\KSKS5cli\x64\Debug\KSKS5cli.vcxproj.AssemblyReference.cache
+C:\LR5\KSKS5cli\KSKS5cli\x64\Debug\KSKS5cli.vcxproj.SuggestedBindingRedirects.cache
